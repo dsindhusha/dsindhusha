@@ -9,8 +9,8 @@ I'm Sindhusha, a final-year Computer Science undergraduate specializing in AI & 
 
 ### Tools & Tech
 
-* Languages: Java, Python, JavaScript, SQL
-* Web Development: React.js, Node.js, Express.js, FastAPI, REST APIs
-* Databases: MongoDB, MySQL, Supabase, Firebase
-* AI & ML: Scikit-learn, Pandas, PyTorch
-* Tools: Git, GitHub, Postman
+* **Languages:** Java, Python, JavaScript, SQL
+* **Web Development:** React.js, Node.js, Express.js, FastAPI, REST APIs
+* **Databases:** MongoDB, MySQL, Supabase, Firebase
+* **AI & ML:** Scikit-learn, Pandas, PyTorch
+* **Tools:** Git, GitHub, Postman
